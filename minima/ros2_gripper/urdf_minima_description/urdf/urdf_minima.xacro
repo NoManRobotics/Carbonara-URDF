@@ -156,7 +156,7 @@
   <parent link="base_link"/>
   <child link="Joint1_v4_1"/>
   <axis xyz="0.0 -0.0 1.0"/>
-  <limit upper="1.570796" lower="-1.570796" effort="100" velocity="10"/>
+  <limit upper="1.570796" lower="-1.570796" effort="100" velocity="6.5"/>
 </joint>
 
 <joint name="Revolute2" type="revolute">
@@ -164,7 +164,7 @@
   <parent link="Joint1_v4_1"/>
   <child link="Joint2_v4_1"/>
   <axis xyz="0.0 1.0 0.0"/>
-  <limit upper="2.96706" lower="0.0" effort="100" velocity="10"/>
+  <limit upper="2.96706" lower="0.0" effort="100" velocity="6.5"/>
 </joint>
 
 <joint name="Revolute3" type="revolute">
@@ -172,7 +172,7 @@
   <parent link="Joint2_v4_1"/>
   <child link="Joint3_v5_1"/>
   <axis xyz="0.0 1.0 0.0"/>
-  <limit upper="6.283185" lower="4.18879" effort="100" velocity="10"/>
+  <limit upper="6.283185" lower="4.18879" effort="100" velocity="6.5"/>
 </joint>
 
 <joint name="Revolute4" type="revolute">
@@ -180,7 +180,7 @@
   <parent link="Joint3_v5_1"/>
   <child link="Joint4_v2_1"/>
   <axis xyz="-0.0 1.0 0.0"/>
-  <limit upper="1.570796" lower="-1.570796" effort="100" velocity="10"/>
+  <limit upper="1.570796" lower="-1.570796" effort="100" velocity="6.5"/>
 </joint>
 
 <joint name="Slider5" type="prismatic">

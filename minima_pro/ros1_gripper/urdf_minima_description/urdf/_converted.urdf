@@ -118,14 +118,14 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="file://C:/Users/jwyhh/Desktop/minima-urdf/minima_pro/ros1_gripper/urdf_minima_description/meshes/base_link.stl" scale="0.001 0.001 0.001"/>
+        <mesh filename="file://C:/Users/dayueyue/Desktop/minima/src/assets/urdf/minima_pro/ros1_gripper/urdf_minima_description/meshes/base_link.stl" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="silver"/>
     </visual>
     <collision>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="file://C:/Users/jwyhh/Desktop/minima-urdf/minima_pro/ros1_gripper/urdf_minima_description/meshes/base_link.stl" scale="0.001 0.001 0.001"/>
+        <mesh filename="file://C:/Users/dayueyue/Desktop/minima/src/assets/urdf/minima_pro/ros1_gripper/urdf_minima_description/meshes/base_link.stl" scale="0.001 0.001 0.001"/>
       </geometry>
     </collision>
   </link>
@@ -138,14 +138,14 @@
     <visual>
       <origin rpy="0 0 0" xyz="-0.0 -0.0 -0.043"/>
       <geometry>
-        <mesh filename="file://C:/Users/jwyhh/Desktop/minima-urdf/minima_pro/ros1_gripper/urdf_minima_description/meshes/Joint1_1.stl" scale="0.001 0.001 0.001"/>
+        <mesh filename="file://C:/Users/dayueyue/Desktop/minima/src/assets/urdf/minima_pro/ros1_gripper/urdf_minima_description/meshes/Joint1_1.stl" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="silver"/>
     </visual>
     <collision>
       <origin rpy="0 0 0" xyz="-0.0 -0.0 -0.043"/>
       <geometry>
-        <mesh filename="file://C:/Users/jwyhh/Desktop/minima-urdf/minima_pro/ros1_gripper/urdf_minima_description/meshes/Joint1_1.stl" scale="0.001 0.001 0.001"/>
+        <mesh filename="file://C:/Users/dayueyue/Desktop/minima/src/assets/urdf/minima_pro/ros1_gripper/urdf_minima_description/meshes/Joint1_1.stl" scale="0.001 0.001 0.001"/>
       </geometry>
     </collision>
   </link>
@@ -158,14 +158,14 @@
     <visual>
       <origin rpy="0 0 0" xyz="-9e-06 0.023 -0.0758"/>
       <geometry>
-        <mesh filename="file://C:/Users/jwyhh/Desktop/minima-urdf/minima_pro/ros1_gripper/urdf_minima_description/meshes/Joint2_1.stl" scale="0.001 0.001 0.001"/>
+        <mesh filename="file://C:/Users/dayueyue/Desktop/minima/src/assets/urdf/minima_pro/ros1_gripper/urdf_minima_description/meshes/Joint2_1.stl" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="silver"/>
     </visual>
     <collision>
       <origin rpy="0 0 0" xyz="-9e-06 0.023 -0.0758"/>
       <geometry>
-        <mesh filename="file://C:/Users/jwyhh/Desktop/minima-urdf/minima_pro/ros1_gripper/urdf_minima_description/meshes/Joint2_1.stl" scale="0.001 0.001 0.001"/>
+        <mesh filename="file://C:/Users/dayueyue/Desktop/minima/src/assets/urdf/minima_pro/ros1_gripper/urdf_minima_description/meshes/Joint2_1.stl" scale="0.001 0.001 0.001"/>
       </geometry>
     </collision>
   </link>
@@ -178,14 +178,14 @@
     <visual>
       <origin rpy="0 0 0" xyz="0.089991 0.0234 -0.0758"/>
       <geometry>
-        <mesh filename="file://C:/Users/jwyhh/Desktop/minima-urdf/minima_pro/ros1_gripper/urdf_minima_description/meshes/Joint3_1.stl" scale="0.001 0.001 0.001"/>
+        <mesh filename="file://C:/Users/dayueyue/Desktop/minima/src/assets/urdf/minima_pro/ros1_gripper/urdf_minima_description/meshes/Joint3_1.stl" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="silver"/>
     </visual>
     <collision>
       <origin rpy="0 0 0" xyz="0.089991 0.0234 -0.0758"/>
       <geometry>
-        <mesh filename="file://C:/Users/jwyhh/Desktop/minima-urdf/minima_pro/ros1_gripper/urdf_minima_description/meshes/Joint3_1.stl" scale="0.001 0.001 0.001"/>
+        <mesh filename="file://C:/Users/dayueyue/Desktop/minima/src/assets/urdf/minima_pro/ros1_gripper/urdf_minima_description/meshes/Joint3_1.stl" scale="0.001 0.001 0.001"/>
       </geometry>
     </collision>
   </link>
@@ -198,14 +198,14 @@
     <visual>
       <origin rpy="0 0 0" xyz="0.005288 0.023 -0.1113"/>
       <geometry>
-        <mesh filename="file://C:/Users/jwyhh/Desktop/minima-urdf/minima_pro/ros1_gripper/urdf_minima_description/meshes/Joint4_1.stl" scale="0.001 0.001 0.001"/>
+        <mesh filename="file://C:/Users/dayueyue/Desktop/minima/src/assets/urdf/minima_pro/ros1_gripper/urdf_minima_description/meshes/Joint4_1.stl" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="silver"/>
     </visual>
     <collision>
       <origin rpy="0 0 0" xyz="0.005288 0.023 -0.1113"/>
       <geometry>
-        <mesh filename="file://C:/Users/jwyhh/Desktop/minima-urdf/minima_pro/ros1_gripper/urdf_minima_description/meshes/Joint4_1.stl" scale="0.001 0.001 0.001"/>
+        <mesh filename="file://C:/Users/dayueyue/Desktop/minima/src/assets/urdf/minima_pro/ros1_gripper/urdf_minima_description/meshes/Joint4_1.stl" scale="0.001 0.001 0.001"/>
       </geometry>
     </collision>
   </link>
@@ -218,14 +218,14 @@
     <visual>
       <origin rpy="0 0 0" xyz="-0.017195 -0.022573 -0.111274"/>
       <geometry>
-        <mesh filename="file://C:/Users/jwyhh/Desktop/minima-urdf/minima_pro/ros1_gripper/urdf_minima_description/meshes/Left_jaw_1.stl" scale="0.001 0.001 0.001"/>
+        <mesh filename="file://C:/Users/dayueyue/Desktop/minima/src/assets/urdf/minima_pro/ros1_gripper/urdf_minima_description/meshes/Left_jaw_1.stl" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="silver"/>
     </visual>
     <collision>
       <origin rpy="0 0 0" xyz="-0.017195 -0.022573 -0.111274"/>
       <geometry>
-        <mesh filename="file://C:/Users/jwyhh/Desktop/minima-urdf/minima_pro/ros1_gripper/urdf_minima_description/meshes/Left_jaw_1.stl" scale="0.001 0.001 0.001"/>
+        <mesh filename="file://C:/Users/dayueyue/Desktop/minima/src/assets/urdf/minima_pro/ros1_gripper/urdf_minima_description/meshes/Left_jaw_1.stl" scale="0.001 0.001 0.001"/>
       </geometry>
     </collision>
   </link>
@@ -238,14 +238,14 @@
     <visual>
       <origin rpy="0 0 0" xyz="-0.017195 0.022587 -0.111274"/>
       <geometry>
-        <mesh filename="file://C:/Users/jwyhh/Desktop/minima-urdf/minima_pro/ros1_gripper/urdf_minima_description/meshes/Right_jaw_1.stl" scale="0.001 0.001 0.001"/>
+        <mesh filename="file://C:/Users/dayueyue/Desktop/minima/src/assets/urdf/minima_pro/ros1_gripper/urdf_minima_description/meshes/Right_jaw_1.stl" scale="0.001 0.001 0.001"/>
       </geometry>
       <material name="silver"/>
     </visual>
     <collision>
       <origin rpy="0 0 0" xyz="-0.017195 0.022587 -0.111274"/>
       <geometry>
-        <mesh filename="file://C:/Users/jwyhh/Desktop/minima-urdf/minima_pro/ros1_gripper/urdf_minima_description/meshes/Right_jaw_1.stl" scale="0.001 0.001 0.001"/>
+        <mesh filename="file://C:/Users/dayueyue/Desktop/minima/src/assets/urdf/minima_pro/ros1_gripper/urdf_minima_description/meshes/Right_jaw_1.stl" scale="0.001 0.001 0.001"/>
       </geometry>
     </collision>
   </link>
